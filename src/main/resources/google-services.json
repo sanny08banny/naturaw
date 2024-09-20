@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633093644947",
+    "project_id": "naturaw-f78d1",
+    "storage_bucket": "naturaw-f78d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633093644947:android:7a9f9f5a6886555c75a366",
+        "android_client_info": {
+          "package_name": "com.example.jabajuice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633093644947-ch6sqkupba1e76p6aoqb8kiga9jm13jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxuZrFXSjfim9O3XNjezZX1yVu-Jw3mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633093644947-ch6sqkupba1e76p6aoqb8kiga9jm13jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

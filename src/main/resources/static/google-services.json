@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414714648432",
+    "project_id": "naturaw-fcde8",
+    "storage_bucket": "naturaw-fcde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414714648432:android:4bd4e29bc1ce31513fa1b5",
+        "android_client_info": {
+          "package_name": "com.example.jabajuice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfiUU0-n59OtGyojvT8aoP-J-30ZLdvTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

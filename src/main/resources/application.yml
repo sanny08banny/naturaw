@@ -1,0 +1,11 @@
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 20MB
+      max-file-size: 20MB
+      max-request-size: 20MB
+
+server:
+  port:5000
